@@ -3,6 +3,10 @@
     "Major": 1,
     "Minor": 0
   },
+  "PanCoords": {
+    "X": 186.0,
+    "Y": 61.0
+  },
   "InputCoords": {
     "X": -85.0,
     "Y": 161.0
