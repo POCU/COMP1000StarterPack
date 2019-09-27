@@ -1,0 +1,35 @@
+{
+  "Version": {
+    "Major": 1,
+    "Minor": 0
+  },
+  "PanCoords": {
+    "X": 117.0,
+    "Y": 251.0
+  },
+  "InputCoords": {
+    "X": -17.0,
+    "Y": -220.0
+  },
+  "Inputs": [
+    {
+      "Order": 0,
+      "ID": "55110899-c797-45b9-8874-efefe4026c99",
+      "Value": false
+    }
+  ],
+  "OutputCoords": {
+    "X": 800.0,
+    "Y": -223.0
+  },
+  "Outputs": [
+    {
+      "Order": 0,
+      "ID": "8f244125-1e13-414e-abc7-0ae9104f1d8c"
+    }
+  ],
+  "Gates": [],
+  "AllowedGateTypes": [
+    "NAND"
+  ]
+}
