@@ -6,16 +6,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="earth.png">
+    <None Update="earth.bmp">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="earth_box_expected.png">
+    <None Update="earth_box_expected.bmp">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="earth_gaussian_expected.png">
+    <None Update="earth_gaussian_expected.bmp">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="earth_shift_left_expected.png">
+    <None Update="earth_shift_left_expected.bmp">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
