@@ -12,10 +12,5 @@
             G = g;
             B = b;
         }
-
-        public static Color FromArgb(byte r, byte g, byte b)
-        {
-            return new Color(r, g, b);
-        }
     }
 }
